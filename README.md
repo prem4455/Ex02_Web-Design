@@ -19,10 +19,29 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
-
+```
+<html>
+    <head>
+        bikes
+        </head>
+        <body>
+            <ul>
+                <li>mt15</li>
+                <li>duke </li>
+                <li>RC</li>
+                    <li>rx100</li>    
+            </ul>
+            <ol>
+                <li>dominer</li>
+                <li>gt650</li>
+                <li>h2R</li>
+                <li>r15v3</li>
+            </ol>
+        </body>
+        </html>
+        ```
 ## OUTPUT
-
+![alt text](<Screenshot 2024-04-28 162522.png>)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
