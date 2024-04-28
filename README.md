@@ -41,7 +41,7 @@
         </html>
         ```
 ## OUTPUT
-![alt text](<Screenshot 2024-04-28 162522.png>)
+![alt text](image.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
