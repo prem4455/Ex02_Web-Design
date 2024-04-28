@@ -41,7 +41,8 @@
         </html>
         ```
 ## OUTPUT
-![alt text](image.png)
+c:\Users\admin\Pictures\Screenshots\listt.jpg
+
 
 ## RESULT
   List of Departments in an Institution is created successfully.
