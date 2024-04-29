@@ -22,28 +22,27 @@
 ```
 <html>
     <head>
-        bikes
+        ice cream varieties 
         </head>
         <body>
             <ul>
-                <li>mt15</li>
-                <li>duke </li>
-                <li>RC</li>
-                    <li>rx100</li>    
+                <li>strawberry</li>
+                <li>vanilla </li>
+                <li>mango</li>
+                    <li>jackcfruit</li>    
             </ul>
             <ol>
-                <li>dominer</li>
-                <li>gt650</li>
-                <li>h2R</li>
-                <li>r15v3</li>
+                <li>pista</li>
+                <li>chocolate</li>
+                <li>lichi</li>
+                <li>butterscotch</li>
             </ol>
         </body>
         </html>
-        ```
+
+```
 ## OUTPUT
-
-![Screenshot (60)-2](https://github.com/prem4455/Ex02_Web-Design/assets/166099075/046c3d6c-f37c-456c-b235-ac4e48225d2c)
-
+![alt text](<Screenshot (60)-2.png>)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
