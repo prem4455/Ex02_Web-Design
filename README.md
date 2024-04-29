@@ -41,7 +41,8 @@
         </html>
         ```
 ## OUTPUT
-c:\Users\admin\Pictures\Screenshots\listt.jpg
+
+![Screenshot (60)-2](https://github.com/prem4455/Ex02_Web-Design/assets/166099075/046c3d6c-f37c-456c-b235-ac4e48225d2c)
 
 
 ## RESULT
