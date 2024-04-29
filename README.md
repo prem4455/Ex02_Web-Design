@@ -42,7 +42,8 @@
 
 ```
 ## OUTPUT
-![alt text](<Screenshot (60)-2.png>)
+![Screenshot (60)-2](https://github.com/prem4455/Ex02_Web-Design/assets/166099075/c1a4a979-d428-4b05-b975-c7f84272ee6a)
+
 
 ## RESULT
   List of Departments in an Institution is created successfully.
